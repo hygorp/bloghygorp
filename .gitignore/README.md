@@ -1,2 +1,0 @@
-# bloghygorp
-Some Codes
